@@ -9,7 +9,10 @@ body{
     text-align: center;
 
 }
-
+.image-container img{
+    width: 100px;
+    height: 80px;
+}
 .container-main{
     width: 500px;
     justify-content: center;
